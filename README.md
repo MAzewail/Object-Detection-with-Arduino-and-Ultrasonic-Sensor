@@ -84,8 +84,9 @@ The project directory is structured as follows:
 
 ```
 .
-├── arduino
-│   └── object_detection.ino
+├── arduino_object_detection
+│   ├── arduino_object_detection.ino
+|   └── model.h
 ├── docs
 │   ├── wiring_diagram.jpeg
 │   └── README.md
